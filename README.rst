@@ -1,40 +1,42 @@
-AlertOps Expert Guidance
+Best Practices for Major Incident Management Teams (in 2021)
 ========
+If a server crashes or a data center outage occurs, does your major incident management team understand best practices to respond quickly and effectively? If not, your company, its employees and its customers could suffer the consequences.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+A major incident causes a business to deviate from its standard processes, and as such, may result in significant brand reputation damage and revenue losses. However, with the right approach to major incident management, your company can prevent minor incidents from escalating.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Major incident management may be easier than you think – now, let’s take a look at three best practices for major incident management.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+    Plan ahead.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+It may seem impossible to prepare for every possible incident, but companies that focus on industry-specific dangers can identify potential problems before they happen.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+For example, a retailer may be susceptible to cyberattacks that put sensitive corporate or consumer data at risk. A retailer cannot necessarily stop cybercriminals from launching attacks, but the business can plan ahead for these potential dangers. By doing so, a retailer can speed up incident response and resolution, along with minimize the risk of downtime, revenue losses and other collateral damage.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+At AlertOps, we provide incident management software that empowers businesses to take a proactive approach to major incidents. We even offer a mobile app to help incident management teams identify and respond to major incidents from any location, on any device and at any time.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    Maintain communication with key stakeholders.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Major incidents can quickly spiral out of control due to poor communication among incident management team members. Fortunately, incident management software is available to help incident management team members stay in touch with one another and work together until an incident is fully resolved.
 
-1 Red Canary 2021 Threat Detection Report
+AlertOps provides live inbound call routing that ensures incoming calls are routed to the right incident management team members – without exception. Plus, AlertOps fosters real-time collaboration via HipChat and Slack, enabling incident management team members to address major incidents in real-time.
+
+    Strive for continuous improvement. 
+
+How a company reports on incident management may dictate its immediate and long-term success.
+
+For instance, a business that creates reports based on the number of major incidents in a set time frame and similar criteria may be better equipped than others to improve its major incident management processes and protocols. This company also may be more likely than others to reduce its incident management expenses over time.
+
+Major incident-specific reports drive improved incident management analysis, evaluation and decision-making. As such, businesses that use advanced reports can learn from past incidents and limit the risk of making the same mistakes twice.
+
+With AlertOps’ enterprise reporting capabilities, incident management teams can track every detail of a major incident. These teams can use enterprise reports to identify both challenges and opportunities and adjust their budgets and staffing levels as needed.
+
+Lastly, it is important to note that major incident management improvements rarely happen overnight. These improvements are driven by company leaders who are dedicated to finding the best ways to reduce or eliminate major incidents day after day.
+
+AlertOps can play a key role in major incident management. In fact, many incident management teams currently use AlertOps to manage IT alerts, on-call scheduling and much more.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/major-incident-management-best-practices/
 
 Read more:
 ====
